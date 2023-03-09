@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h/VOJJVPlzSuj4sC5Eph2JWacAcTghUgMx6nKzHdcDY=",
+  "Source": "YahooFinance",
+  "BasePath": "_content/YahooFinance",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

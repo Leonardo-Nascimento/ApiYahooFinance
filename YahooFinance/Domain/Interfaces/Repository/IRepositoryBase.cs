@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace YahooFinance.Domain.Interfaces.Repository
+{
+    public interface IRepositoryBase<T> where T : class
+    {
+        Task Add(T obj);
+        Task Update(T obj);
+        Task Delete(T obj);
+        Task<T> GetById(int id);
+        Task<IEnumerable<T>> GetAll();
+
+    }
+}

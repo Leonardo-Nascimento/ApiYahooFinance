@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kTWbv/iDT8+Q5qbwhiWJdCVa5Lt8FS6i9s8lSwM4FVJA5SSTTr+8dopI/gN7+PyrjK/4yHNDfrrwwSuJwmxEhA==",
+  "success": true,
+  "projectFilePath": "D:\\Desafio\\YahooFinance\\Aplication\\Aplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEO\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\LEO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

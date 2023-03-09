@@ -1,0 +1,17 @@
+D:\Desafio\YahooFinance\Infra\bin\Debug\net6.0\Infra.deps.json
+D:\Desafio\YahooFinance\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+D:\Desafio\YahooFinance\Infra\bin\Debug\net6.0\Infra.dll
+D:\Desafio\YahooFinance\Infra\bin\Debug\net6.0\Infra.pdb
+D:\Desafio\YahooFinance\Infra\bin\Debug\net6.0\Domain.dll
+D:\Desafio\YahooFinance\Infra\bin\Debug\net6.0\Domain.pdb
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\Infra.dll
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\refint\Infra.dll
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\Infra.pdb
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+D:\Desafio\YahooFinance\Infra\obj\Debug\net6.0\ref\Infra.dll
